@@ -8,7 +8,10 @@ package Basics;
 
 //public class FaceBookHomePage
 
-public class ClassNameConvention{
+//public class ClassNameConvention
+
+public class GoToBed
+{
 
 	public static void main(String[] args) 
 	{

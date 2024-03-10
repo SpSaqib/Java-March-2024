@@ -16,13 +16,14 @@ public class Rules {
 		int h$;
 		int s_;
 		int s&;
+		int b!;
 		
 		//Identifiers space is not allowed
 		
 		int rahulSharma;
 		int amitabh bacchan;
 		
-		// We can use keyword as an identifier
+		// We can't use keyword as an identifier
 		int void;
 		int static;
 		int public;
