@@ -2,9 +2,12 @@ package Basics;
 
 public class DataTypesAndVariables {
 	
+	
+	
 	public static void main(String[] args) 
 	{
-		int a=10;
+		 int a=10;
+		
 		double b=5.2;
 		char c='a';
 		short s=4537;
@@ -15,10 +18,12 @@ public class DataTypesAndVariables {
 		long l=573683636;
 		
 		String s1="Bidar";
+		//Default values
 		String s2 = null;
 		char ch = 0;
-		boolean value=true;
+		boolean value1 = false;
 		
+		boolean value=true;
 		int a3,b3 = 0,c3;
 		
 		a3=5;
@@ -33,5 +38,6 @@ public class DataTypesAndVariables {
 		System.out.println(b3);
 		System.out.println(s2);
 		System.out.println(ch);
+		System.out.println(value1);
 	}
 }
