@@ -7,15 +7,16 @@ public class Widening1 {
 		int a=10;
 		
 		long b=a;
+		
 		// implicitly
 		double c=b; //decimal
 		
-		char c1=(char) 90;
+//		char c1=(char) 90;
 		
 		System.out.println(a);
 		System.out.println(b);
 		System.out.println(c);
-		System.out.println(c1);
+//		System.out.println(c1);
 
 	}
 

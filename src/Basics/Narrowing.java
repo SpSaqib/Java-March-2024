@@ -4,7 +4,7 @@ public class Narrowing {
 
 	public static void main(String[] args) {
 		
-		float f=20;
+		float f=20;// Decimal
 		System.out.println(f);
 		
 		// Explicitly
