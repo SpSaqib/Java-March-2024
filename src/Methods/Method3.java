@@ -7,7 +7,10 @@ public class Method3 {
 		addition();
 		
 		addTwoNumbers(5, 10);
+		
 		addTwoNumbers(10, 30);
+		
+		squareNumber(4);
 		
 	}
 	
@@ -27,6 +30,12 @@ public class Method3 {
 		int result=a+b;
 		
 		System.out.println("Addition of a and b is : "+result);
+	}
+	
+	public static void squareNumber(int a)
+	{
+		int square=a*a;
+		System.out.println(square);
 	}
 	
 
