@@ -29,7 +29,7 @@ public class Scanner1 {
 		
 		
 		
-		//	int a = s.nextInt();
+		// int a = s.nextInt();
 		// long l = s.nextLong();
 		// float f = s.nextFloat();
 		// String str = s.next();

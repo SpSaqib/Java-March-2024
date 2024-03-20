@@ -1,4 +1,4 @@
-package InterviwQuestions;
+package InterviewQuestions;
 
 public class LargestOfThreeNumbers {
 
